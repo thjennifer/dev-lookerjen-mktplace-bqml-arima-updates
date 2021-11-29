@@ -1,7 +1,7 @@
 include: "/test_updated_block/block_views/arima_create_model.view"
-
+####
 view: google_analytics_arima_create_model {
-  extends: [arima_create_model]
+  #extends: [arima_create_model]
 
   derived_table: {
     create_process: {
