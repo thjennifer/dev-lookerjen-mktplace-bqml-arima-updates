@@ -11,6 +11,6 @@ constant: CONNECTION_NAME {
 }
 
 constant: looker_temp_dataset_name {
-  value: "looker_scratch"
+  value: "looker_scratch_eu"
   export: override_required
 }

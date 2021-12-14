@@ -1,4 +1,5 @@
-view: arima_create_model {
+include: "//bqml-arima/views/arima_create_model.view"
+view: +arima_create_model {
   label: "[5] BQML: Create Model"
 
   derived_table: {
