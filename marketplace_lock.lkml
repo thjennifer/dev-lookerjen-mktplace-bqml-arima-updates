@@ -8,6 +8,6 @@ marketplace_ref: {
   version: "1.0.1"
   models: ["arima_model_info", "google_analytics_forecast"]
 
-override_constant: CONNECTION_NAME { value:"thelook_bq" }
+override_constant: CONNECTION_NAME { value:"thjennifer-looker-ps" }
 override_constant: looker_temp_dataset_name { value:"looker_scratch" }
 }
