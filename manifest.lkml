@@ -1,0 +1,3 @@
+marketplace: {
+  listing: "bqml-arima"
+}
